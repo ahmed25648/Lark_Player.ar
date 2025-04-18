@@ -1,16 +1,10 @@
 {
-
- "version":"7.1",
-
- "title":"     🇪🇬∆💙  تحديث جديد 💙∆🇪🇬",
-
- "description":" مآ آݪجديد ف وآتسآب 𝙰𝚁 𝚄𝙻𝚃𝚁𝙰 v7.0b🔥
-
--1 تم آضآفة وآجهة جديدة
--2 تم آضآفة خطوط جديدة
--3 تم آضآفة آستوري مثݪ آنستجرآم
--4 آصݪآح مشڪݪة عدم آݪوصوݪ ݪݪڪآميرآ ف بعض آݪأجهزة
--5 آݪمزيد من آݪإصݪآحآت وآݪتحسينآت آڪتشفهآ بنفسڪ💙",
- "download":"https://firebasestorage.googleapis.com/v0/b/ag-chat-d52d4.appspot.com/o/picker%2FWhatsApp.apk?alt=media&token=4d1d5ca5-1c7b-4a25-94a2-2cb561978d10"
-
+  "version": "6.17.5",
+  "title": "التحديث متاح! 📢",
+  "NewVersion": "v6.17.5",
+  "downloadLink": "https://whatsapp.com/channel/0029Vb5LZ3T8qIzllS4WI10w",
+  "changeLogMessage": "🔵 تم فتح مزايا البريميوم 🎁\n⚪ تم حذف الإعلانات ✨\n🔴 تحسينات الأداء ⚡",
+  "negativebtn": "لاحقاً",
+  "positivebtn": "تحديث الآن",
+  "changelogTitle": "سجل التغيرات 📌"
 }
